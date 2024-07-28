@@ -1,0 +1,14 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./input.css -o ./output.css"
+  },
+  "author": "Anand Kumar",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
